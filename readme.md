@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Add merge.
 Waiting to fix the issure-101.
+Add/usr/bin/env
